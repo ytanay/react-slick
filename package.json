@@ -65,16 +65,6 @@
   "peerDependencies": {
     "react": "^0.12.*"
   },
-  "browserify": {
-    "transform": [
-      [
-        "reactify",
-        {
-          "es6": true
-        }
-      ]
-    ]
-  },
   "npmName": "react-slick",
   "npmFileMap": [
     {
